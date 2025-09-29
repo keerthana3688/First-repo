@@ -1,0 +1,6 @@
+The dataset consists of both numerical and categorical features, with a manageable number of missing values primarily concentrated in a few columns. 
+Descriptive statistics reveal important trends such as skewed distributions in income and purchase amounts, while categorical analysis highlights dominant groups such as customer segments or regions. 
+Visualizations including histograms and boxplots uncover distribution patterns and outliers, whereas scatterplots and pairplots indicate relationships between key variables. 
+A correlation heatmap further emphasizes strong positive associations, for instance between salary and purchase amount, while negative relationships such as age and spending behavior are also evident.
+ Overall, the analysis reveals clear patterns in customer demographics and purchasing behavior, including differences in spending across age groups, gender, and regions. 
+These insights provide a strong foundation for targeted strategies such as customer segmentation, personalized marketing, and improved business decision-making.
