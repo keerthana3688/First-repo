@@ -1,0 +1,34 @@
+1. Created the dataset
+
+Defined a table online_sales with columns:
+order_id, order_date, amount, product_id.
+
+Inserted sample sales records into it.
+
+2. Applied all aggregation hints
+
+Extracted year and month from order_date using EXTRACT().
+
+Grouped data by year and month.
+
+Calculated total revenue with SUM(amount).
+
+Counted unique orders with COUNT(DISTINCT order_id).
+
+Ordered results chronologically with ORDER BY.
+
+Limited results to a specific period (e.g., only 2023).
+
+3. Ran the final query
+
+Produced a results table showing revenue and orders per month.
+
+4. Generated insights
+
+The results help identify monthly sales trends, showing how revenue and order volume change over time.
+
+---Outcome
+
+You successfully learned how to group data by time periods and use aggregation functions for trend analysis.
+
+This approach can now be reused for business reporting, forecasting, and sales monitoring.
